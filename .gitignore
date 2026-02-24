@@ -1,0 +1,15 @@
+*.csv
+*.pyc
+
+.DS_Store
+
+/.aws
+.env
+
+.claude/
+*.zip
+
+# Local Decvelopment
+.devcontainer/.python-version
+.devcontainer/pyproject.toml
+.devcontainer/uv.lock
